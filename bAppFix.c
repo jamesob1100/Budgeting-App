@@ -35,7 +35,7 @@ int main(void){
 	unsigned int choice = 0;
     float weekEarnings = 0;
 
-	printf("Welcome to Budgeting App V1.0\n");
+	printf("Welcome to Budgeting App V2.0\n");
 	menu();
 	scanf("%u", &choice);
 
